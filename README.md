@@ -1,5 +1,5 @@
 # OCR
  
-Use main.py as main program & Only Program(Others are just test progeams)
+Use main.py as main program & Only Program(Others are just test programs)
 
-Also Tesseract Should be installed on Computer
+Also Google Tesseract Should be installed on Computer
